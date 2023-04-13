@@ -994,8 +994,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/body-pix@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/body-pix@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/body-pix/-/body-pix-0.1.1.tgz#35c111684c639adc936c61dc3d785b6b29dc4f32"
+  integrity sha512-pdbzyDjDJCwdE95MiZ7hAsBSpVlNmDbeHNWygEwv4pozcVG8nA/a9r2jlD6k2Vx57ne0DA+q0ifvrQ9+sVqTVA==
 
 "@tensorflow-models/posenet@^2.2.2":
   version "2.2.2"
